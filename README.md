@@ -3,8 +3,7 @@
 This Proof of Concept demonstrates an automated Smart Quoting workflow that allows users to upload a Certificate of Insurance (COI) and instantly receive an eligibility decision and competitive quote based on internal underwriting rules.
 
 ## Live Demo
-(Insert your Streamlit Cloud link here)
-Example: https://scriptpy-bezxevvwtzdo2xu7wgwytq.streamlit.app/
+ https://scriptpy-bezxevvwtzdo2xu7wgwytq.streamlit.app/
 
 ## Features
 - Upload COI PDF and automatically extract:
