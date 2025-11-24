@@ -24,12 +24,6 @@ This Proof of Concept demonstrates an automated Smart Quoting workflow that allo
 | Rules Engine | Python logic |
 | Deployment | Streamlit Cloud / GitHub |
 
-## 📂 Project Structure
-smart-quoting-poc/
-├── script.py # Main app
-├── requirements.txt
-├── README.md
-└── architecture-diagram.png 
 
 ## 🔧 Installation (Run locally)
 ```bash
